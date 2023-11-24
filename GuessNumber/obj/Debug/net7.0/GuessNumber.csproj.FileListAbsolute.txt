@@ -1,0 +1,15 @@
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/bin/Debug/net7.0/GuessNumber
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/bin/Debug/net7.0/GuessNumber.deps.json
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/bin/Debug/net7.0/GuessNumber.runtimeconfig.json
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/bin/Debug/net7.0/GuessNumber.dll
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/bin/Debug/net7.0/GuessNumber.pdb
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/GuessNumber.csproj.AssemblyReference.cache
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/GuessNumber.AssemblyInfoInputs.cache
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/GuessNumber.AssemblyInfo.cs
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/GuessNumber.csproj.CoreCompileInputs.cache
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/GuessNumber.dll
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/refint/GuessNumber.dll
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/GuessNumber.pdb
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/GuessNumber.genruntimeconfig.cache
+/Users/danedonaldson/Documents/GitHub/GuessNumberCSharp/GuessNumber/obj/Debug/net7.0/ref/GuessNumber.dll
